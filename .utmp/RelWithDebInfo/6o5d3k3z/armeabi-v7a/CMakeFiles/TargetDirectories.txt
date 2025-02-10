@@ -1,0 +1,5 @@
+C:/Users/Oskars/3D Objects/GolfMobile2D/.utmp/RelWithDebInfo/6o5d3k3z/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Oskars/3D Objects/GolfMobile2D/.utmp/RelWithDebInfo/6o5d3k3z/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/Oskars/3D Objects/GolfMobile2D/.utmp/RelWithDebInfo/6o5d3k3z/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/Oskars/3D Objects/GolfMobile2D/.utmp/RelWithDebInfo/6o5d3k3z/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/Oskars/3D Objects/GolfMobile2D/.utmp/RelWithDebInfo/6o5d3k3z/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
